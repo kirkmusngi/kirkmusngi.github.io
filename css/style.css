@@ -1,27 +1,10 @@
-body {
-	font-family: monospace;
-	padding-top: 50px;
-	letter-spacing: .1em;
+/* Portfolio stylinnnnnn' */
+
+* {
+	font-family: 'Concert One', cursive;
+	font-size: 24px;
 }
 
-p {
-	color: blue;
-	font-size: 14px;
-}
-
-h1 {
-	font-size: 25px;
-}
-
-.content {
-	text-align: center;
-}
-
-ul#nav {
-	font-size: 1.1rem;
-	list-style-type: none;
-}
-
-li {
-	display: inline;
+div.main {
+	margin-top: 150px;
 }
